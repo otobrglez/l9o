@@ -1,11 +1,17 @@
 ![l9o logo](./examples/l9o.gif)
 
-> Generator of fancy animated ASCII GIF logos.
+Generator of fancy animated ASCII GIF logos.
 
 # Usage
 
 ```bash
 make font=alligator2 text=l9o clean out.gif
+```
+
+# Why?
+
+```
+Why not? It uses all your CPU cores to generate fancy GIFs. ^.^
 ```
 
 # Dependencies
