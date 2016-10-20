@@ -14,6 +14,13 @@ make font=alligator2 text=l9o clean out.gif
 Why not? It uses all your CPU cores to generate fancy GIFs. ^.^
 ```
 
+# Examples
+
+![roman.gif](./examples/roman.gif)
+![script.gif](./examples/script.gif)
+![univers.gif](./examples/univers.gif)
+![whimsy.gif](./examples/whimsy.gif)
+
 # Dependencies
 
 - `make`
@@ -24,13 +31,6 @@ Why not? It uses all your CPU cores to generate fancy GIFs. ^.^
 - [ansi2html](https://pypi.python.org/pypi/ansi2html)
 - [ImageMagick](http://www.imagemagick.org)
 - [PhantomJS](http://phantomjs.org/)
-
-# Examples
-
-![roman.gif](./examples/roman.gif)
-![script.gif](./examples/script.gif)
-![univers.gif](./examples/univers.gif)
-![whimsy.gif](./examples/whimsy.gif)
 
 # Author
 
