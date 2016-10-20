@@ -24,4 +24,8 @@ make font=alligator2 text=l9o clean out.gif
 ![roman.gif](./examples/roman.gif)
 ![script.gif](./examples/script.gif)
 ![univers.gif](./examples/univers.gif)
-![whimsy.gif](./examples/univers.gif)
+![whimsy.gif](./examples/whimsy.gif)
+
+# Author
+
+- [Oto Brglez](https://github.com/otobrglez)
